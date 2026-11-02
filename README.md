@@ -2,6 +2,18 @@
 
 AI Security Engineer | AI Red Teamer — building open security tools for LLM agents, web apps and networks. Director & Co-founder, Cyber Legends. University cybersecurity lecturer, Lahore.
 
+## Dashboard
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=AI+Security+Engineer;AI+Red+Teamer;Building+open+security+tools)](https://git.io/typing-svg)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussainraza&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhussainraza&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussainraza&theme=tokyonight)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajidhussainraza&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## What I build now
 
 - **Prompt Injection Detector** — probes LLM prompts for injection attacks, so weaknesses are found before attackers find them.
