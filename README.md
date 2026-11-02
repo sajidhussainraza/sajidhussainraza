@@ -6,13 +6,13 @@ AI Security Engineer | AI Red Teamer — building open security tools for LLM ag
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=AI+Security+Engineer;AI+Red+Teamer;Building+open+security+tools)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidhussainraza&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajidhussainraza&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhussainraza&layout=compact&theme=tokyonight)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajidhussainraza&theme=tokyonight)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajidhussainraza&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidhussainraza&theme=tokyonight)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajidhussainraza&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## What I build now
 
