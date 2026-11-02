@@ -1,23 +1,39 @@
 # Sajid Hussain Raza
 
-Lecturer in Computer Science | Director & Co-founder, Cyber Legends | PhD scholar in AI-driven cybersecurity and ransomware defense
+AI Security Engineer | AI Red Teamer — building open security tools for LLM agents, web apps and networks. Director & Co-founder, Cyber Legends. University cybersecurity lecturer, Lahore.
 
-Based in Lahore, Pakistan. I teach cybersecurity and work on practical, hands-on learning in security, networking, and AI security.
+## What I build now
 
-## What I do
+- **Prompt Injection Detector** — probes LLM prompts for injection attacks, so weaknesses are found before attackers find them.
+- **JWT Security Inspector** — inspects JSON Web Tokens for weak signing and common misconfigurations.
+- **Phishing URL Analyzer** — scores a URL for phishing signals before anyone clicks it.
+- **HTTP Security Headers Checker** — grades a site's security headers out of 100.
 
-- Cybersecurity training, services, and solutions through Cyber Legends: https://cyberlegends.org
-- University teaching in computer science and information security
-- AI security engineering and red teaming, with a focus on AI-driven cybersecurity and ransomware defense
+## Currently focused on
 
-## Featured work on GitHub
+- AI red teaming of LLM agents (OWASP LLM Top 10, MITRE ATLAS, PyRIT)
+- Defensive auditing: security headers, JWT, and phishing analysis
+- A Web of Science Q1 paper on AI red teaming, in progress
 
-- Cisco Packet Tracer labs, including advanced labs
-- CEH practice material and tools
-- Machine learning work, including DBSCAN
-- Books and presentation material
+## Tools
+
+| Tool | What it checks | Language |
+| --- | --- | --- |
+| Prompt Injection Detector | LLM prompt injection | Python |
+| JWT Security Inspector | JWT signing and configuration | Python |
+| Phishing URL Analyzer | Phishing signals in URLs | Python |
+| HTTP Security Headers Checker | Website security headers | Python |
+
+## Cyber Legends
+
+Cybersecurity trainings, services, and solutions in Lahore: https://cyberlegends.org
+
+## Teaching
+
+University lecturer in computer science and information security, Lahore.
 
 ## Connect
 
 - Website: https://cyberlegends.org
+- LinkedIn: https://www.linkedin.com/in/sajid-hussain-raza/
 - GitHub: https://github.com/sajidhussainraza
